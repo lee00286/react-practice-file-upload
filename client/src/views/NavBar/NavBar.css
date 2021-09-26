@@ -1,0 +1,18 @@
+@import '~antd/dist/antd.css';
+
+.navbar-container {
+    position: fixed;
+    z-index: 50;
+    width: 100%;
+}
+
+.navbar-title {
+    width: 150px;
+    float: left;
+}
+
+.navbar-title a {
+    display: inline-block;
+    font-size: 20px;
+    padding: 19px 20px;
+}
